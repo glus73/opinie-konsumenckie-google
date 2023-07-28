@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>googlecustomerreviewssnippet</name>
+    <displayName><![CDATA[Fragment opinii konsumenckich Google]]></displayName>
+    <version><![CDATA[0.1.6]]></version>
+    <description><![CDATA[Ten moduł dodaje fragment programu Opinie konsumenckie Google na stronie potwierdzenia zam&oacute;wienia.]]></description>
+    <author><![CDATA[Hurt-Mix]]></author>
+    <tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[Jesteś pewien, że chcesz odinstalować?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
